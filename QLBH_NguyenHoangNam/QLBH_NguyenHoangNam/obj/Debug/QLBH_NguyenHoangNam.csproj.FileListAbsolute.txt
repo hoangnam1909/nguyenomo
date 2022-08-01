@@ -1,0 +1,166 @@
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\ApplicationInsights.config
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\csc.exe
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\System.Collections.Immutable.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\System.Reflection.Metadata.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\vbc.exe
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\VBCSCompiler.exe
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\VBCSCompiler.exe.config
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\QLBH_NguyenHoangNam.dll.config
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\QLBH_NguyenHoangNam.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\QLBH_NguyenHoangNam.pdb
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Antlr3.Runtime.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.SqlServer.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.Agent.Intercept.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.DependencyCollector.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.Web.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.WindowsServer.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.ApplicationInsights.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Core.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Cookies.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Facebook.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Google.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.OAuth.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Twitter.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Web.Infrastructure.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Newtonsoft.Json.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Owin.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Helpers.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Mvc.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Optimization.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Razor.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Deployment.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Razor.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\WebGrease.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.DependencyCollector.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.Web.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.WindowsServer.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.ApplicationInsights.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Helpers.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Mvc.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Optimization.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Razor.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Deployment.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Razor.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Antlr3.Runtime.pdb
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Newtonsoft.Json.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.SqlServer.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Core.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Facebook.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Cookies.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.OAuth.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Google.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Twitter.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.csprojResolveAssemblyReference.cache
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.dll
+D:\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.pdb
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\ApplicationInsights.config
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\csc.exe
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\System.Collections.Immutable.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\System.Reflection.Metadata.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\vbc.exe
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\VBCSCompiler.exe
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\roslyn\VBCSCompiler.exe.config
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\QLBH_NguyenHoangNam.dll.config
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\QLBH_NguyenHoangNam.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\QLBH_NguyenHoangNam.pdb
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Antlr3.Runtime.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.SqlServer.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.DependencyCollector.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.Web.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.WindowsServer.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.ApplicationInsights.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Google.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Web.Infrastructure.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Newtonsoft.Json.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Owin.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Helpers.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Mvc.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Optimization.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Razor.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Deployment.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Razor.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\WebGrease.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.DependencyCollector.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.Web.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AI.WindowsServer.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.ApplicationInsights.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Helpers.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Mvc.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Optimization.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.Razor.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Deployment.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\System.Web.WebPages.Razor.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Antlr3.Runtime.pdb
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Newtonsoft.Json.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\EntityFramework.SqlServer.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Google.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.csproj.AssemblyReference.cache
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.csproj.CoreCompileInputs.cache
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.csproj.CopyComplete
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.dll
+F:\Learning\Database Programming\ASP.NET_QLBH\QLBH_NguyenHoangNam\QLBH_NguyenHoangNam\obj\Debug\QLBH_NguyenHoangNam.pdb
